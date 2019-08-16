@@ -3,5 +3,5 @@
 ## GO Install 
 `wget https://raw.githubusercontent.com/cyataku/Docker-install-For-Centos7/master/docker.sh && sh docker.sh`
 
-## mirror Tubro
-`cd /etc/docker && wget  
+## mirror Turbo
+`cd /etc/docker && wget https://raw.githubusercontent.com/cyataku/Docker-install-For-Centos7/master/aemon.json`
