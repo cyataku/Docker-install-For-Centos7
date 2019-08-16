@@ -1,5 +1,6 @@
 # Docker-install-For-Centos7
-For CentOS Linux Release 7.6.1810(Core) docker-ce Install Script  
+For CentOS Linux Release 7.6.1810(Core) docker-ce Install Script.  
+
 Your must install wget First Time,Use sudo command or root User run This Script.  
 **`yum install wget -y`**    
 ## GO Install 
